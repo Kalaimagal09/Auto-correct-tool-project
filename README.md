@@ -36,26 +36,7 @@ Here is a summary of the projects included in this repository.
 
 ---
 
-## How to Run the Projects
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    ```
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd AI-Internship-Projects
-    ```
-
-3.  **Open the Notebooks:**
-    Launch Jupyter Notebook and open the `.ipynb` file for the respective project to see the code and its execution.
-
-    ```bash
-    jupyter notebook
-    ```
-
----
 
 ## About Me
 
