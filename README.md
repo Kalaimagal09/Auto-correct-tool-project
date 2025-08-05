@@ -20,22 +20,27 @@ Here is a summary of the projects included in this repository.
     * Vocabulary building from a text corpus
     * Edit Distance (Levenshtein distance algorithm)
 
-### 2. AI-Powered Translator App
 
-* **Status:** ⏳ In Progress
-* **Description:** A real-time translation application powered by a state-of-the-art Transformer model. This project leverages pre-trained models from the Hugging Face library to perform high-quality translations between languages.
-* **Technologies to be Used:**
-    * Python 3
-    * Jupyter Notebook
-    * Hugging Face `transformers` library
-    * PyTorch
-* **Key Concepts:**
-    * Machine Translation
-    * Transformer Models (Sequence-to-Sequence architecture)
-    * Transfer Learning
+ Resume Parser
+📌 Overview
+The Resume Parser is a tool that automatically extracts key information from resumes (PDF, DOCX, or TXT) such as name, contact details, skills, education, and work experience.
+It uses Natural Language Processing (NLP) techniques to convert unstructured resume text into structured data for easy analysis and storage.
+
+🚀 Features
+* Supports multiple file formats (PDF, DOCX, TXT)
+* Extracts personal details, education, skills, experience
+* Cleans and normalizes text
+* Outputs data in JSON/CSV format
+* Easy integration with HR systems
+
+🛠️ Tech Stack
+* Python
+* spaCy / NLTK
+* PyPDF2 / pdfplumber
+* docx2txt
+* pandas
 
 ---
-
 
 
 ## About Me
