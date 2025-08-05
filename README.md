@@ -21,19 +21,19 @@ Here is a summary of the projects included in this repository.
     * Edit Distance (Levenshtein distance algorithm)
 
 
- Resume Parser
-📌 Overview
+### 2. Resume Parser
+**📌 Overview**
 The Resume Parser is a tool that automatically extracts key information from resumes (PDF, DOCX, or TXT) such as name, contact details, skills, education, and work experience.
 It uses Natural Language Processing (NLP) techniques to convert unstructured resume text into structured data for easy analysis and storage.
 
-🚀 Features
+**🚀 Features**
 * Supports multiple file formats (PDF, DOCX, TXT)
 * Extracts personal details, education, skills, experience
 * Cleans and normalizes text
 * Outputs data in JSON/CSV format
 * Easy integration with HR systems
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 * Python
 * spaCy / NLTK
 * PyPDF2 / pdfplumber
